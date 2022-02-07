@@ -173,19 +173,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
 <hr>
-
-#### Want to Build Your Own?
-
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
-
-1. Create a *special* GitHub repository with your username as repository name. My username is `8-DK` so my profile readme repository has the name `8-DK`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
-
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
-
+[![FlagCounter](https://s05.flagcounter.com/count2/fwjs/bg_DBC8D7/txt_000000/border_CCCCCC/columns_8/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/fwjs)
 -----
 Credits: [Dhananjay Khairnar](https://github.com/8-DK)
 
