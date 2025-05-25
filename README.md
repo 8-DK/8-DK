@@ -1,183 +1,122 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+
 <hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dhananjay Khairnar</h1>
-![](https://komarev.com/ghpvc/?username=8-DK&color=blue)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=8-DK&label=Profile%20views&color=0e75b6&style=flat" alt="8-DK" />
+</p>
+
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/khairnardm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dmkhairnar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Dhananjay Khairnar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dhananjay_khairnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@dhananjay_khairnar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Dhananjay_KHairnar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dhananjay_khairnar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.oryour-github-usernameg/user/dhananjay_khairnar/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.n### Hi there 👋
-2
-​
-3
-<!--
-4
-**8-DK/8-DK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-5
-​
-6
-Here are some ideas to get you started:
-7
-​
-8
-- 🔭 I’m currently working on ...
-9
-- 🌱 I’m currently learning ...
-10
-- 👯 I’m looking to collaborate on ...
-11
-- 🤔 I’m looking for help with ...
-12
-- 💬 Ask me about ...
-13
-- 📫 How to reach me: ...
-14
-- 😄 Pronouns: ...
-15
-- ⚡ Fun fact: ...
-16
--->
-17
-et/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhananjay_khairnar" height="30" width="40" /></a>
- <a href = "mailto: khairnardm@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
-</p>
-
-
 
 <p align="center">
-  <em>
-    This is ME, Dhananjay Khairnar, I have <b>graduated</b>in bachelor degree of </b>Electronics and Telecommunications</b> from college <a href="https://www.sapkalknowledgehub.org/"> <b>Sapkal Knowledge Hub</b>, Nashik</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <a href="https://www.linkedin.com/in/khairnardm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/dmkhairnar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/dhananjay_khairnar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="HackerRank" height="30" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/8-DK/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/khairnardm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="30"/>
+  </a>
+  &nbsp;
+  <a href="mailto:khairnardm@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" height="30" width="30"/>
+  </a>
 </p>
 
-[![FlagCounter](https://s01.flagcounter.com/count2/1NC0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/A4bA)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8-DK&label=Profile%20views&color=0e75b6&style=flat" alt="8-DK" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+### 👤 About Me
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+- 👨‍🏫 Pronouns: **He/His**
+- 🔭 Currently Developing: **Drone Control Station Software**
+- 🧠 Learning: **AI & ML**
+- 🤝 Open to: **Open Source Collaborations**
+- 🆘 Seeking Guidance On: **Machine Learning**
+- ✍️ Writing Articles On: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dhananjay_khairnar/articles)
+- 👨‍💻 Solving Problems On: [LeetCode](https://leetcode.com/Dhananjay_KHairnar/)
+- 😄 Fun Fact: *When coding under stress, I often slip into a half-sleep mode 😴*
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Drone Control Station Softwares** <br>
-✔ I’m currently learning **AI** & **ML**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **AI & ML**<br>### Hi there 👋
-2
-​
-3
-<!--
-4
-**8-DK/8-DK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-5
-​
-6
-Here are some ideas to get you started:
-7
-​
-8
-- 🔭 I’m currently working on ...
-9
-- 🌱 I’m currently learning ...
-10
-- 👯 I’m looking to collaborate on ...
-11
-- 🤔 I’m looking for help with ...
-12
-- 💬 Ask me about ...
-13
-- 📫 How to reach me: ...
-14
-- 😄 Pronouns: ...
-15
-- ⚡ Fun fact: ...
-16
--->
-17
+---
 
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dhananjay_khairnar/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Dhananjay_Khairnar/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
+### ⚙️ Technical Skills
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+- Programming: **C, C++, Python, Java, Qt/QML**
+- Embedded Platforms: **STM32, ARM Cortex, ESP32, PIC, nRF**
+- Firmware Design: **Embedded Systems Architecture**, **RTOS (FreeRTOS, ChibiOS)**
+- Communication Protocols: **I2C, SPI, UART, CAN, BLE, LoRa, MQTT**
+- Debugging & Tools: **JTAG, SWD, Oscilloscope**
+- Embedded Security: **Secure Boot, Encryption, OTA, Cybersecurity**
+- Circuit Design: **PCB Design, Schematic Capture, Circuit Analysis**
+
+---
+
+### 👨‍💼 Management & Process Skills
+
+- **Embedded Project Management**
+- **Agile & Scrum Development**
+- **Team Leadership & Mentoring**
+- **Hardware-Software Integration**
+- **Risk Analysis & Troubleshooting**
+- **Requirement Analysis & Documentation**
+
+---
+
+### 🧰 Tools & Technologies
+
 <p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/8-DK/8-DK/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8-DK&show_icons=true&locale=en&layout=compact" alt="8-DK" /></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8-DK&show_icons=true&locale=en" alt="8-DK" width="410" /></p>
+---
 
-<hr>
+### 📊 GitHub Stats
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=8-DK&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-<hr>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=8-DK&show_icons=true&locale=en" alt="GitHub Stats" width="410" />
+</p>
 
-[![FlagCounter](https://s05.flagcounter.com/count2/fwjs/bg_DBC8D7/txt_000000/border_CCCCCC/columns_8/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/fwjs)
 
------
-Credits: [Dhananjay Khairnar](https://github.com/8-DK)
+<p align="center">
+  <a href="https://info.flagcounter.com/fwjs">
+    <img src="https://s05.flagcounter.com/count2/fwjs/bg_DBC8D7/txt_000000/border_CCCCCC/columns_8/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter"/>
+  </a>
+</p>
 
-Last Edited on: 22/02/2021
+---
+
+**Credits:** [Dhananjay Khairnar](https://github.com/8-DK)  
+**Last Updated:** May 2025
